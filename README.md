@@ -1,6 +1,6 @@
-## BootcampWoMakersCode ##
+## Bootcamp de Data Analytics da WoMakersCode 🦋 ##
 
- *Este repositório contém exercícios e desafios realizados durante o Bootcamp de Data Analytics da WoMarkersCode *
+ *Este repositório contém exercícios e desafios realizados durante o Bootcamp*
 
 **Estrutura:**
 ---
