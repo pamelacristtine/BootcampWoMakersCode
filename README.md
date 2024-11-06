@@ -8,4 +8,3 @@
 
 * **Desafios** - [Challenge](https://github.com/pamelacristtine/BootcampWoMakersCode/tree/main/challenge)
 
-* **Desafio Final** - 
